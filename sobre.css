@@ -1,0 +1,34 @@
+h1{
+    color:#da1e1e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 35px;
+    justify-content: center;
+    display: flex;
+
+}
+.nav{
+    background-color: #da1e1e;
+    padding: 10px;
+    display:flex;
+    justify-content: center;
+}
+a{
+    color:white;
+    padding-right:10%;
+    font-size: 10px;
+    
+}
+.title{
+    color:#da1e1e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 38px;
+    justify-content:left;
+    display: flex;
+}
+h3{
+    color:#6e6b6b;
+    font-family:'Times New Roman', Times, serif;
+
+}
